@@ -1,6 +1,6 @@
 var moduleprinc = ( function principal() {
 
-    
+
 
 
 }
